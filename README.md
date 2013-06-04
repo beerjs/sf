@@ -1,5 +1,3 @@
-![BeerJS logo](https://secure.gravatar.com/avatar/43c360c53b793cfb13f77efcee3bd5cb?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png)
-
 BeerJS SF
 =========
 
@@ -24,3 +22,5 @@ Organizers
 * Brian Leroux ([Github](https://github.com/brianleroux) / [Twitter](https://twitter.com/brianleroux))
 * Derek Gathright ([Github](https://github.com/derek) / [Twitter](https://twitter.com/derek))
 * Malte Ubl ([Github](https://github.com/cramforce) / [Twitter](https://twitter.com/cramforce))
+
+![BeerJS logo](https://secure.gravatar.com/avatar/43c360c53b793cfb13f77efcee3bd5cb?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png)
