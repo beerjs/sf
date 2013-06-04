@@ -13,7 +13,7 @@ Watch this repo to get notified of upcoming meeting dates or date and location c
 Want to help?
 -------------
 
-Pull requests welcome!
+Submit a Pull Request or file an Issue!
 
 
 Organizers
