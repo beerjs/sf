@@ -18,7 +18,7 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 Why Github?
 -----------
 
-* Github is a much more natural social network for a group of developers.  
+* Github is a more natural social network for a group of developers than Meetup.com.  
 * Less spam
 * Because Github is free and [Meetup.com is not](http://www.meetup.com/help/Does-it-cost-money-to-start-a-Meetup-Group), which means more beer money!
 
