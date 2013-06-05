@@ -7,13 +7,13 @@ BeerJS SF is a gathering group for San Franciscans (and visitors!) to get togeth
 Want to join?
 -------------
 
-Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo to get notified of upcoming meeting dates or date and location changes.  Also, join [meetup.com/beerjs](http://www.meetup.com/beerjs).
+Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, join [meetup.com/beerjs](http://www.meetup.com/beerjs).
 
 
 Want to help?
 -------------
 
-Submit a Pull Request, file an Issue, or create a Wiki page!
+Submit a Pull Request, file an Issue, or edit the Wiki
 
 
 Organizers
